@@ -1,6 +1,6 @@
 const output = document.querySelector("#output");
 const button = document.querySelector("#btn");
-const url = "https://dog.ceo/api/breeds/image/husky";
+const url = "https://dog.ceo/api/breeds/image/random";
 // const url = "https://unitube-server.herokuapp.com/playlists";
 // const url = "https://jsonplaceholder.typicode.com/dummyUsers";
 
