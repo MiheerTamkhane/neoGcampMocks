@@ -1,0 +1,28 @@
+Practical question : 
+Create a web app with a button loaded, show that a text
+loading... on a web page . however show a success...
+if, I click on a loaded button.
+
+Theorotical questions : 
+1. What is an API?
+2. what is diff between class and id attribute in HTML?
+3. What are the different types of
+Selectors in CSS?
+
+
+Divya Namdev5:59 PM
+Create two objects with name, power, and 
+yuga as Ram, 2500, Treta. Krishna, 2325, 
+Dwapar. Say if every character in name is 
+worth 35 power points. Write a function which
+ takes two objects and return the person with
+ more power based on their name and power both.
+Divya Namdev6:15 PM
+Create a web app with a button loaded. Show a 
+text loading... on a web app. However, hide it
+ if I click on the button loaded.
+Divya Namdev6:34 PM
+
+output.style.color ="
+rgb(" +Number(rgb1.value)+ "," + Number(rgb2.value)
+ + "," + Number(rgb3.value)+ ")";
